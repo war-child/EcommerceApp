@@ -1,43 +1,50 @@
 # Employee Tracker
 
-  ## Description
+## Description
 
-  This is a command line SQL based application to allow you access to an employee database, for tracking employees, their managers and what th eir job is
+This is a command line SQL based application to allow you access to an employee database, for tracking employees, their managers and what th eir job is
 
-  ## Table of Contents
+## Table of Contents
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
-  
-  ## Installation
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  Fork the repository From my github
+## Screenshot
 
-  ## Usage
+![Screenshot of Data](./ecommscreenshot.png)
 
-  Tracking employees at a company
+## Video Example
 
-  ## License
+![Video Example 1](./ExampleVidForEcomm.mkv)
 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  https://opensource.org/licenses/MIT
+## Installation
 
-  This project is licensed under the MIT License.
+Fork the repository From my github
 
-  ## Contributing
+## Usage
 
-  n/a
+Tracking employees at a company
 
-  ## Tests
+## License
 
-  creating and storing employees and jobs
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+https://opensource.org/licenses/MIT
 
-  ## Questions
+This project is licensed under the MIT License.
 
-  If you have any questions about this project, you can reach me at orion.m.cannon@gmail.com 
-  or you can find me on GitHub at [OrionC11](https://github.com/OrionC11).
+## Contributing
 
+n/a
+
+## Tests
+
+creating and storing employees and jobs
+
+## Questions
+
+If you have any questions about this project, you can reach me at orion.m.cannon@gmail.com
+or you can find me on GitHub at [OrionC11](https://github.com/OrionC11).
